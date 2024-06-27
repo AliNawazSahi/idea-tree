@@ -1,0 +1,9 @@
+[23-Jan-2024 12:12:51 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'learns29_wp283'@'localhost' (using password: YES) in /home1/findkgar/etechlogics.com/projects/sobi/idea-tree/db/db.php on line 3
+[23-Jan-2024 12:12:52 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/findkgar/etechlogics.com/projects/sobi/idea-tree/index.php on line 343
+[23-Jan-2024 12:12:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/findkgar/etechlogics.com/projects/sobi/idea-tree/index.php on line 348
+[23-Jan-2024 12:13:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'learns29_wp283'@'localhost' (using password: YES) in /home1/findkgar/etechlogics.com/projects/sobi/idea-tree/db/db.php on line 3
+[23-Jan-2024 12:13:21 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/findkgar/etechlogics.com/projects/sobi/idea-tree/index.php on line 343
+[23-Jan-2024 12:13:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/findkgar/etechlogics.com/projects/sobi/idea-tree/index.php on line 348
+[23-Jan-2024 12:14:12 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'learns29_wp283'@'localhost' (using password: YES) in /home1/findkgar/etechlogics.com/projects/sobi/idea-tree/db/db.php on line 3
+[23-Jan-2024 12:14:13 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/findkgar/etechlogics.com/projects/sobi/idea-tree/index.php on line 343
+[23-Jan-2024 12:14:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/findkgar/etechlogics.com/projects/sobi/idea-tree/index.php on line 348
